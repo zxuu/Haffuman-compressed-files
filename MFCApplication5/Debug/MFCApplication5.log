@@ -1,0 +1,26 @@
+﻿生成启动时间为 2018/1/18 12:58:27。
+     1>项目“E:\vs\我的vs程序\MFCApplication5\MFCApplication5\MFCApplication5.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MFCApplication5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\哈夫曼编解码.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt THtree.cpp MFCApplication5Dlg.cpp
+         MFCApplication5Dlg.cpp
+         THtree.cpp
+     1>e:\vs\我的vs程序\mfcapplication5\mfcapplication5\thtree.cpp(57): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+     1>e:\vs\我的vs程序\mfcapplication5\mfcapplication5\thtree.cpp(250): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+     1>e:\vs\我的vs程序\mfcapplication5\mfcapplication5\thtree.cpp(311): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+     1>e:\vs\我的vs程序\mfcapplication5\mfcapplication5\thtree.cpp(458): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+     1>e:\vs\我的vs程序\mfcapplication5\mfcapplication5\thtree.cpp(536): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs\我的vs程序\mfcapplication5\mfcapplication5\thtree.cpp(558): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       Link:
+         D:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs\我的vs程序\MFCApplication5\Debug\哈夫曼编解码.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:"E:\vs\我的vs程序\MFCApplication5\Debug\哈夫曼编解码.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs\我的vs程序\MFCApplication5\Debug\哈夫曼编解码.lib" /MACHINE:X86 Debug\MFCApplication5.res
+         Debug\THtree.obj
+         Debug\MFCApplication5.obj
+         Debug\MFCApplication5Dlg.obj
+         Debug\stdafx.obj
+         MFCApplication5.vcxproj -> E:\vs\我的vs程序\MFCApplication5\Debug\哈夫曼编解码.exe
+     1>已完成生成项目“E:\vs\我的vs程序\MFCApplication5\MFCApplication5\MFCApplication5.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:40.37

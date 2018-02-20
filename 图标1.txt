@@ -1,0 +1,9 @@
+﻿1>------ 已启动生成: 项目: 哈夫曼编解码, 配置: Debug Win32 ------
+1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MFCApplication5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+1>  MFCApplication5Dlg.cpp
+1>  正在生成代码...
+1>  正在跳过...(未检测到相关更改)
+1>  a.cpp
+1>  MFCApplication5.cpp
+1>  MFCApplication5.vcxproj -> E:\vs\我的vs程序\MFCApplication5\Debug\哈夫曼编解码.exe
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========

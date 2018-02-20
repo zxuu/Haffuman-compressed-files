@@ -1,0 +1,10 @@
+﻿1>------ 已启动生成: 项目: MFCApplication5, 配置: Debug Win32 ------
+1>  a.cpp
+1>e:\vs\我的vs程序\mfcapplication5\mfcapplication5\a.cpp(57): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+1>e:\vs\我的vs程序\mfcapplication5\mfcapplication5\a.cpp(251): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+1>e:\vs\我的vs程序\mfcapplication5\mfcapplication5\a.cpp(313): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+1>e:\vs\我的vs程序\mfcapplication5\mfcapplication5\a.cpp(474): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+1>e:\vs\我的vs程序\mfcapplication5\mfcapplication5\a.cpp(554): warning C4018: “<”: 有符号/无符号不匹配
+1>e:\vs\我的vs程序\mfcapplication5\mfcapplication5\a.cpp(576): warning C4018: “<”: 有符号/无符号不匹配
+1>  MFCApplication5.vcxproj -> E:\vs\我的vs程序\MFCApplication5\Debug\MFCApplication5.exe
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
