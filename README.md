@@ -21,3 +21,7 @@
 解压后的文件内容和原先的一样！
 
 ![image](https://github.com/zxuu/Haffuman-compressed-files/blob/master/images/newfilenei.png)
+
+中文文本压缩率不如纯英文文本高.
+
+![image](https://github.com/zxuu/Haffuman-compressed-files/blob/master/images/Chinese.png)
