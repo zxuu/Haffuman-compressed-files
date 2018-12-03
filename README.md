@@ -11,3 +11,5 @@
 
 ![image](https://github.com/zxuu/Haffuman-compressed-files/blob/master/images/yasuohou.png)
 
+选择.bin文件进行解码，解码后多了一个new文件
+
