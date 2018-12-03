@@ -1,1 +1,1 @@
-# Haffuman-compressed-files
+# 哈夫曼编解码文件，并进行加密
