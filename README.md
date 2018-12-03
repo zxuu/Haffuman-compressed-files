@@ -13,3 +13,10 @@
 
 选择.bin文件进行解码，解码后多了一个new文件
 
+![image](https://github.com/zxuu/Haffuman-compressed-files/blob/master/images/jieya.png)
+
+![image](https://github.com/zxuu/Haffuman-compressed-files/blob/master/images/newfile.png)
+
+解压后的文件内容和原先的一样！
+
+![image](https://github.com/zxuu/Haffuman-compressed-files/blob/master/images/newfilenei.png)
