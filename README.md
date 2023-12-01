@@ -1,6 +1,7 @@
 # 哈夫曼编解码文件，并进行加密
-
-### 这是软件主界面
+# 原理
+![压缩原理](https://github.com/zxuu/Haffuman-compressed-files/blob/master/%E5%8E%9F%E7%90%86.png)
+# 软件主界面
 
 ![image](https://github.com/zxuu/Haffuman-compressed-files/blob/master/images/zhuye.png)
 
